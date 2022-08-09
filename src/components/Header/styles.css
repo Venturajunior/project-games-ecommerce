@@ -1,0 +1,28 @@
+.header-main {
+  display: flex;
+  background: linear-gradient(to bottom, #009fff, #ec2f4b);
+  height: 48px;
+  padding: 16px;
+  align-items: center;
+  box-shadow: 1px 1px 4px black;
+  margin-top: 80px;
+}
+
+.item-menu {
+  cursor: pointer;
+  font-size: 24px;
+  font-weight: 700;
+  margin-left: 24px;
+  color: #3e3e3e;
+}
+.item-menu:hover {
+  opacity: 0.8;
+}
+
+.cart-icon {
+  cursor: pointer;
+  margin-left: auto;
+}
+.cart-icon:hover {
+  opacity: .7;
+}
