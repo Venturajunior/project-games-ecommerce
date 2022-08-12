@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Peaky Blinders: Mastermind",
+    "description": "Peaky Blinders: Mastermind é um jogo de quebra-cabeça e aventura baseado na premiada série de TV da BBC e da Netflix.",
+    "current_price": 135.99,
+    "image": "http://localhost:3003/images/peaky-blinders",
+    "discount_price": 0,
+    "categories": ["adventure"],
+    "platforms": ["PC", "XBOX", "ANDROID", "APPLE"],
+    "starts": 5
+  },
+  {
+    "title": "The Ascent - Cybersec Pack",
+    "description": "A CyberSec Mega, a maior fabricante de tecnologia militar e principal fornecedora da CorpSec, acabou de lançar um conjunto de armas, equipamento tático, armaduras e visuais animados.",
+    "price": 179.00,
+    "image": "http://localhost:3003/images/ascent",
+    "discount_price": 138.97,
+    "categories": ["adventure"],
+    "platforms": ["PC", "XBOX", "APPLE"],
+    "starts": 5
+  },
+  {
+    "title": "Space Crew: Legendary Edition",
+    "description": "Space Crew é a continuação novinha em folha do aclamado e estratégico simulador de sobrevivência, Bomber Crew.",
+    "price": 201.79,
+    "image": "http://localhost:3003/images/space-crew",
+    "discount_price": 176.99,
+    "categories": ["adventure", "childish"],
+    "platforms": ["PC", "NINTENDO", "APPLE"],
+    "starts": 5
+  }
+]
