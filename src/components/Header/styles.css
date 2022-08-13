@@ -1,0 +1,37 @@
+.header-main {
+  border: 1px solid #151d27;
+  display: flex;
+  height: 80px;
+  padding: 16px 32px;
+  box-shadow: 0px 1px 0px 2px black;
+  margin-top: 40px;
+}
+
+.header-wrapper-items {
+  display: flex;
+}
+
+.header-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-wrapper-items a {
+  text-decoration: none;
+}
+
+.header-item + .header-item {
+  margin-left: 32px;
+}
+
+.header-item-text {
+  font-size: 24px;
+  color: #fff;
+  font-weight: 700;
+  margin-left: 8px;
+}
+
+.header-cart-icon {
+  margin: 0 16px 0 auto;
+}
