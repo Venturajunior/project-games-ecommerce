@@ -1,0 +1,20 @@
+.header-background-container {
+  background-image: url('/src/assets/spider-man.jpg');
+  background-position: top center;
+  background-size: cover;
+  height: 200px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-background-icon {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+}
+
+.header-background-ad {
+  color: #fff;
+}
