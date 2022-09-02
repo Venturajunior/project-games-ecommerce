@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Peaky Blinders: Mastermind",
+    "description": "Peaky Blinders: Mastermind é um jogo de quebra-cabeça e aventura baseado na premiada série de TV da BBC e da Netflix.",
+    "current_price": 135.99,
+    "image": "http://localhost:3003/images/peaky-blinders",
+    "discount_price": 0,
+    "categories": ["adventure"],
+    "platforms": ["PC", "XBOX", "ANDROID", "APPLE"],
+    "starts": 5
+  },
+  {
+    "title": "The Ascent - Cybersec Pack",
+    "description": "A CyberSec Mega, a maior fabricante de tecnologia militar e principal fornecedora da CorpSec, acabou de lançar um conjunto de armas, equipamento tático, armaduras e visuais animados.",
+    "price": 179.00,
+    "image": "http://localhost:3003/images/ascent",
+    "discount_price": 138.97,
+    "categories": ["adventure"],
+    "platforms": ["PC", "XBOX", "APPLE"],
+    "starts": 5
+  },
+  {
+    "title": "Space Crew: Legendary Edition",
+    "description": "Space Crew é a continuação novinha em folha do aclamado e estratégico simulador de sobrevivência, Bomber Crew.",
+    "price": 201.79,
+    "image": "http://localhost:3003/images/space-crew",
+    "discount_price": 176.99,
+    "categories": ["adventure", "childish"],
+    "platforms": ["PC", "NINTENDO", "APPLE"],
+    "starts": 5
+  },
+  {
+    "title": "DRAGON BALL: THE BREAKERS",
+    "description": "Compre DRAGON BALL: THE BREAKERS na pré-venda e ganhe o conteúdo adicional a seguir para personalizar seu sobrevivente:",
+    "price": 179.00,
+    "image": "http://localhost:3003/images/dragon-ball",
+    "discount_price": 124.99,
+    "categories": ["adventure", "childish"],
+    "platforms": ["XBOX", "ANDROID", "APPLE"],
+    "starts": 5
+  },
+  {
+    "title": "A Lenda do Herói 2",
+    "description": "A Lenda do Herói 2 é um jogo musical de plataforma 2D, que dá seguimento ao inovador A Lenda do Herói, jogo criado pelos Castro Brothers e Dumativa.",
+    "price": 89.00,
+    "image": "http://localhost:3003/images/legend-hero",
+    "discount_price": 0,
+    "categories": ["adventure", "childish"],
+    "platforms": ["PC", "ANDROID", "NINTENDO"],
+    "starts": 3
+  },
+  {
+    "title": "SOULCALIBUR VI - Deluxe Edition",
+    "description": "Mergulhe na mais nova iteração da série SOULCALIBUR! Experimente novas mecânicas de batalha e explore o máximo desta famosa série de jogos de luta!",
+    "price": 199.99,
+    "image": "http://localhost:3003/images/soulcalibur",
+    "discount_price": 189.99,
+    "categories": ["adventure"],
+    "platforms": ["PC", "XBOX", "PS4","ANDROID", "NINTENDO"],
+    "starts": 4
+  },
+  {
+    "title": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Legacy",
+    "description": "NARUTO SHIPPUDEN: ULTIMATE NINJA STORM LEGACY junta todos os 4 jogos da série STORM em uma coleção de tirar o fôlego. Esta série se estabeleceu entre as melhores adaptações de animes e mangás para videogames!",
+    "price": 210.00,
+    "image": "http://localhost:3003/images/naruto",
+    "discount_price": 199.99,
+    "categories": ["adventure"],
+    "platforms": ["XBOX", "PS4", "NINTENDO"],
+    "starts": 5
+  },
+  {
+    "title": "Injustice 2 - Legendary Edition",
+    "description": "Injustice 2 - Legendary Edition trás conteúdos novos, além da continuação da narrativa de Injustice; enquanto Batman tenta sabotar o regime de Superman, é revelada uma nova ameaça que pode colocar a existência da Terra em perigo.",
+    "price": 149.99,
+    "image": "http://localhost:3003/images/justice",
+    "discount_price": 129.99,
+    "categories": ["adventure", "RPG"],
+    "platforms": ["XBOX", "PS4", "NINTENDO", "ANDROID"],
+    "starts": 4
+  },
+  {
+    "title": "Tom Clancy's Rainbow Six",
+    "description": "Domine a arte da destruição e do uso de gadgets em Tom Clancy’s Rainbow Six Siege. Enfrente combates intensos em curta distância, alta letalidade, decisões táticas, jogabilidade em equipe e ação explosiva a todo momento. Vivencie uma nova era de tiroteios ferozes e estratégia de alto nível nascida do grande legado dos jogos de Tom Clancy's Rainbow Six passados.",
+    "price": 69.99,
+    "image": "http://localhost:3003/images/tom-clancy",
+    "discount_price": 0,
+    "categories": ["adventure", "RPG"],
+    "platforms": ["PS4", "NINTENDO"],
+    "starts": 2
+  }
+]
