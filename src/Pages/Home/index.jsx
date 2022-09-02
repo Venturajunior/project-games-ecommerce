@@ -1,10 +1,20 @@
-import React from 'react';
+/* eslint-disable prettier/prettier */
+/* eslint-disable implicit-arrow-linebreak */
+/* eslint-disable arrow-parens */
+import React, { useEffect, useState } from 'react';
 import Slider from '../../components/Slider';
 import Card from '../../components/Card';
 import { imagesList } from '../../components/Slider/sliderData';
 import './styles.css';
 
 export default function Home() {
+  const [gameList, setGameList] = useState([]);
+
+  useEffect(() => {
+    fetch('http://localhost:3003/game-list').then((response) =>
+      response.json()).then(data => setGameList(data));
+  }, []);
+
   return (
     <>
       <div className="home-title">
@@ -17,21 +27,14 @@ export default function Home() {
         <h2>New games</h2>
       </div>
       <div className="home-main">
-        <Card
-          img={imagesList.at(0).image}
-          gameName={imagesList.at(0).gameName}
-          gamePrice={imagesList.at(0).gamePrice}
-        />
-        <Card
-          img={imagesList.at(1).image}
-          gameName="Naruto Storm"
-          gamePrice={100}
-        />
-        <Card
-          img={imagesList.at(2).image}
-          gameName="Naruto Storm"
-          gamePrice={100}
-        />
+        {gameList.map(game => (
+          <Card
+            key={game.title}
+            img={game.image}
+            gameName={game.title}
+            gamePrice={game.discount_price}
+          />
+        ))}
       </div>
     </>
   );

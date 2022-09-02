@@ -9,8 +9,16 @@ export const imagesList = [
     gameName: 'VIIIXE Storm',
     gamePrice: 120,
   },
-  { image: justice },
-  { image: soulcalibur },
+  {
+    image: justice,
+    gameName: 'Injustices',
+    gamePrice: 120,
+  },
+  {
+    image: soulcalibur,
+    gameName: 'SoulCalibur',
+    gamePrice: 120,
+  },
 ];
 
 // export default sliderData;

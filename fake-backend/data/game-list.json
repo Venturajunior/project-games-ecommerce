@@ -7,7 +7,7 @@
     "discount_price": 0,
     "categories": ["adventure"],
     "platforms": ["PC", "XBOX", "ANDROID", "APPLE"],
-    "starts": 5
+    "stars": 5
   },
   {
     "title": "The Ascent - Cybersec Pack",
@@ -17,7 +17,7 @@
     "discount_price": 138.97,
     "categories": ["adventure"],
     "platforms": ["PC", "XBOX", "APPLE"],
-    "starts": 5
+    "stars": 5
   },
   {
     "title": "Space Crew: Legendary Edition",
@@ -27,7 +27,7 @@
     "discount_price": 176.99,
     "categories": ["adventure", "childish"],
     "platforms": ["PC", "NINTENDO", "APPLE"],
-    "starts": 5
+    "stars": 5
   },
   {
     "title": "DRAGON BALL: THE BREAKERS",
@@ -37,7 +37,7 @@
     "discount_price": 124.99,
     "categories": ["adventure", "childish"],
     "platforms": ["XBOX", "ANDROID", "APPLE"],
-    "starts": 5
+    "stars": 5
   },
   {
     "title": "A Lenda do Herói 2",
@@ -47,7 +47,7 @@
     "discount_price": 0,
     "categories": ["adventure", "childish"],
     "platforms": ["PC", "ANDROID", "NINTENDO"],
-    "starts": 3
+    "stars": 3
   },
   {
     "title": "SOULCALIBUR VI - Deluxe Edition",
@@ -57,7 +57,7 @@
     "discount_price": 189.99,
     "categories": ["adventure"],
     "platforms": ["PC", "XBOX", "PS4","ANDROID", "NINTENDO"],
-    "starts": 4
+    "stars": 4
   },
   {
     "title": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Legacy",
@@ -67,7 +67,7 @@
     "discount_price": 199.99,
     "categories": ["adventure"],
     "platforms": ["XBOX", "PS4", "NINTENDO"],
-    "starts": 5
+    "stars": 5
   },
   {
     "title": "Injustice 2 - Legendary Edition",
@@ -77,7 +77,7 @@
     "discount_price": 129.99,
     "categories": ["adventure", "RPG"],
     "platforms": ["XBOX", "PS4", "NINTENDO", "ANDROID"],
-    "starts": 4
+    "stars": 4
   },
   {
     "title": "Tom Clancy's Rainbow Six",
@@ -87,6 +87,6 @@
     "discount_price": 0,
     "categories": ["adventure", "RPG"],
     "platforms": ["PS4", "NINTENDO"],
-    "starts": 2
+    "stars": 2
   }
 ]
